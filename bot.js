@@ -20,4 +20,4 @@ client.on('ready', function(){
     });
     }, 5000);
 });
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.BOT_TOKEN);a
