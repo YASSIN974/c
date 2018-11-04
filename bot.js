@@ -10,7 +10,7 @@ client.on('ready', function(){
  game: { 
     type: 1,
      url: 'https://www.twitch.tv/skwadraa',
-    name: 'CUTE',
+    name: 'The response is strong',
     application_id: '477187715658547201',
      assets: {
          large_image:   `${s[Math.floor(Math.random() * s.length)]}`,
@@ -20,4 +20,4 @@ client.on('ready', function(){
     });
     }, 5000);
 });
-client.login(process.env.BOT_TOKEN);a
+client.login(process.env.BOT_TOKEN);
